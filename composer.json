@@ -1,6 +1,6 @@
 {
-    "name": "git_user_id/git_repo_id",
-    "description": "",
+    "name": "CinollaSoftware/gov-uk-pay-client",
+    "description": "SDK generated for PHP GovUKPay SDK Client code",
     "keywords": [
         "swagger",
         "php",
@@ -8,7 +8,7 @@
         "rest",
         "api"
     ],
-    "homepage": "http://swagger.io",
+    "homepage": "https://docs.payments.service.gov.uk/",
     "license": "proprietary",
     "authors": [
         {
